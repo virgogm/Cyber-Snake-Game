@@ -1,0 +1,6 @@
+{
+  "name": "Cyber Snake",
+  "description": "A futuristic retro-cyberpunk Snake game featuring portals, custom audio synthesizer waves, 30 challenging grid-maze stages, power-ups, and recorded high scores.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
